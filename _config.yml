@@ -5,7 +5,8 @@ author:
   email: ""
   url: ""
 
-baseurl: /
+#baseurl: /
+url: "https://imalexi.com"
 
 source: .
 destination: ./_site
