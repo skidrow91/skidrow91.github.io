@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to use searchCriteria to get list object in magento 2
+description: "How to use searchCriteria to get list object in magento 2"
 categories: magento
 ---
 

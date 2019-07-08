@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to get product attribute value in magento 2
+description: "How to get product attribute value in magento 2"
 categories: magento
 ---
 
